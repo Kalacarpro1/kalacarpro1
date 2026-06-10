@@ -1,16 +1,111 @@
-## Hi there 👋
-
-
-**Kalacarpro1/kalacarpro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-06-10T17:17:40.960Z",
+  "profile": {
+    "title": "Arpit Mishra",
+    "subtitle": "A passionate developer",
+    "currentWork": "A MERN project",
+    "currentLearn": "GraphQL",
+    "collaborateOn": "",
+    "helpWith": "learning system design",
+    "ama": "React, Node.js , and web development",
+    "contact": "mishraarpitpro@gmail.com",
+    "funFact": "",
+    "visitorsBadge": false,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "",
+    "blog": "",
+    "resume": "https://drive.google.com/drive/folders/1jfJlJhwIkghWU9FfCyO5q3WZrb2lDDPY"
+  },
+  "social": {
+    "github": "kalacarpro1",
+    "dev": "",
+    "linkedin": "https://www.linkedin.com/in/arpit-mishra-6b810629a/",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "https://www.codechef.com/users/arpitpro",
+    "hackerrank": "https://www.hackerrank.com/profile/mishraarpitpro",
+    "codeforces": "",
+    "leetcode": "https://leetcode.com/u/arpitpro/",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "https://www.geeksforgeeks.org/profile/mishraarpitpro",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "anaconda",
+    "android",
+    "aws",
+    "c",
+    "cplusplus",
+    "css3",
+    "django",
+    "docker",
+    "express",
+    "firebase",
+    "git",
+    "html5",
+    "java",
+    "javascript",
+    "kubernetes",
+    "mongodb",
+    "mysql",
+    "nodejs",
+    "numpy",
+    "opencv",
+    "oracle",
+    "photoshop",
+    "postgresql",
+    "python",
+    "react"
+  ]
+}
